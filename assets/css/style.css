@@ -75,7 +75,7 @@ footer {
 }
 
 .photo-group {
-  width: 300px;
+  max-width: 300px;
   margin: auto;
   position: relative;
 }

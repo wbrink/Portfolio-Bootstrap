@@ -1,4 +1,4 @@
-# Portfolio-bootstrap
+# Old Portfolio Bootstrap
 
 This is a re-work of wbrink.github.io/old-portfolio so that the portfolio is now mobile responsive. This is done using Bootstrap 4.4.
 Adding a couple of my own media queries allowed me to changed the width of the Bootstrap "container" class to make it fill the whole screen
